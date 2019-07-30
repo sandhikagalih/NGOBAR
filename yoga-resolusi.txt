@@ -1,0 +1,10 @@
+Hallo pak, Salam kenal nama saya yoga dari blora.
+
+Resolusi saya :
+  - Membuat website menggunakan framework javascript.
+  - Bekerja di start-up
+
+Pertnyaan saya:
+  - Untuk menjadi seorang fullstack developer dari mana saya harus belajar ya pak?
+  - Tips supaya tidak lupa dengan code bahasa pemrograman apa saja ya pak?
+  
