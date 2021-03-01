@@ -1,0 +1,19 @@
+Halo pak nama saya falah, saya dari kalbar masih sma kls 3 bntr lagi mau ujian tinggal 1bulan,
+but semangat mengikuti channel bapak, saya lebih meningkatkan skill coding dari pada ilmu
+sekolah karna saya sulit sekali bagi saya mengimplementasikan ilmu sekolah ke dunia :).
+
+Resolusi dari saya
+*frontEnd
+  - Menggunakan frameWork JS 
+    ^ React
+    ^ Vue
+    ^ Angular
+
+*backEnd
+  - Menggunakan frameWork JS
+    ^ Node js
+    
+
+
+
+
