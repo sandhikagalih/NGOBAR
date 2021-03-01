@@ -53,7 +53,15 @@ $(window).scroll(function(){
 
 
 
+// Dari saya
+// Melihat scroll Dari atas sampai bawah
 
+function scrolling(){
+	$(window).scroll(function(){
+		let wScroll = document.querySelector("html, body").scrollTop;
+		console.log(wScroll);
+	});
+};
 
 
 
